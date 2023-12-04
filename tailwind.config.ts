@@ -29,6 +29,9 @@ export default <Partial<Config>>{
     extend: {
       // fontFamily: { headline: ["Oswald"] },
       colors: {
+        blue: {
+          400: '#003595',
+        },
         bgBody: "#FFFFFF",
         primary: "#003595",
         secondary: "#0094AA",
