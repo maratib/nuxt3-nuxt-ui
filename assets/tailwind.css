@@ -1,0 +1,7 @@
+body {
+  @apply text-base font-medium bg-bgBody text-black
+}
+
+h1 {
+  @apply text-4xl font-bold leading-[43.2px] 
+}
